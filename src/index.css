@@ -1,0 +1,23 @@
+#run {
+	width: 50px;
+	height: 50px;
+	background-color: aquamarine;
+	border: none;
+}
+
+#stop {
+	width: 50px;
+	height: 50px;
+	background-color: rgb(51, 177, 235);
+	border: none;
+}
+#next {
+	width: 50px;
+	height: 50px;
+	background-color: rgb(244, 233, 29);
+	border: none;
+}
+#canvas {
+	display: block;
+	margin: 0 auto;
+}
